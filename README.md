@@ -44,4 +44,4 @@ Here are some resources I’m using to learn Rust:
 
 ## Connect  
 
-I’m sharing my learning journey on [LinkedIn](nkedin.com/in/arabson99) and [X (formerly Twitter)](https://x.com/a_a_u99). Follow along for updates!  
+I’m sharing my learning journey on [LinkedIn](linkedin.com/in/arabson99) and [X (formerly Twitter)](https://x.com/a_a_u99). Follow along for updates!  
